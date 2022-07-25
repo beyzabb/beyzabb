@@ -1,7 +1,7 @@
 Hi <img src="https://user-images.githubusercontent.com/53148314/120832912-d7576900-c569-11eb-8de9-71da3412c259.gif" height="30"> My name is Beyza Başağa
 =============================
 
-Junior Full-Stack Developer
+Junior Frontend Developer
 ---------------------------
 
 I am trying to be Full-Stack Developer🙂
@@ -9,6 +9,7 @@ I am trying to be Full-Stack Developer🙂
 * 🌍  I'm based in Turkey
 * 🖥️  See my portfolio at [MyLinkedIn](http://in/beyza-basaga)
 * ✉️  You can contact me at [bbasaga06@gmail.com](mailto:bbasaga06@gmail.com)
+* ✒️  You can read some of my articles in [Medium](https://medium.com/@beyzabasaga)
 * 🧠  I'm learning Android Studio and DataScience with Python
 
 <a href="https://www.github.com/beyzabb" target="_blank" rel="noreferrer"><img
